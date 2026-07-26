@@ -184,12 +184,6 @@ Potential enhancements include:
 
 ---
 
-# Dashboard Screenshot
-
-![Dashboard]([(https://github.com/anubhavv2/Attrition-Analysis-Dashboard/blob/main/Attrition%20Analysis_SS.jpg))
-
----
-
 # Author
 
 **Anubhav Sharma**
